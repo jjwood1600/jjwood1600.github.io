@@ -16,7 +16,7 @@
 title: JJ's website!
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Eesentially google will use this to search
+  Welcome to JJ's website - here you can keep up with his games etc.!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jjwood1600
